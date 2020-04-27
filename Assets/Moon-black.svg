@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="115" viewBox="0 0 115 115">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Moon-black" transform="translate(-110 -328)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="57.5" cy="57.5" r="57.5" transform="translate(110 328)"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="35" cy="50" rx="35" ry="50" transform="translate(155 336)"/>
+  </g>
+</svg>
